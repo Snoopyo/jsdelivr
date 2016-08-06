@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "enoaclient-angular",
+  "repo": "Emallates/enoa-client",
+  "files": {
+    "include": ["enoaclient.angular.min.js"]
+  }
+}
