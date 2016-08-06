@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "enoaclient-jquery",
+  "repo": "Emallates/enoa-client",
+  "files": {
+    "include": ["enoaclient.jquery.min.js"]
+  }
+}
